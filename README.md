@@ -7,7 +7,7 @@ It looks like an old top-down adventure: a little village, a broken bell on a la
 - Play in your browser: https://buggygamesyt.github.io/secondhand/
 - Android: grab `Secondhand.apk` from the latest release.
 
-Controls: arrows / WASD walk, Z = A (talk, read), X / Space = B (swing your sword), Enter = START (pause), Shift = SELECT (map), M mute. On a phone: D-pad or joystick (switch in the pause menu), plus A, B, START and SELECT. To change areas, walk off the edge of the screen where a path leads out.
+Controls: arrows / WASD walk, Z = A (talk, read; hold to run), X / Space = B (swing your sword), Enter = START (pause), Shift = SELECT (map), M mute. On a phone: D-pad or joystick (switch in the pause menu), plus A, B, START and SELECT.
 
 All story, characters, art, and music are original.
 
